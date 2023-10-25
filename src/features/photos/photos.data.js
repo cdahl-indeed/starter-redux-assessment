@@ -56,3 +56,12 @@ const photos = [
 ];
 
 export default photos;
+
+
+//https://iheartdogs.com/wp-content/uploads/2023/04/lhasa-apso-1804674_1280.jpg
+
+// {
+//   id: 11,
+//       caption: 'Cookie',
+//     imageUrl: 'https://iheartdogs.com/wp-content/uploads/2023/04/lhasa-apso-1804674_1280.jpg',
+// },
