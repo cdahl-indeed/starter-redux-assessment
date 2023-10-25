@@ -37,7 +37,6 @@ const options = {
                 state.loading = false;
                 state.error = false;
                 state.suggestion = action.payload;
-                console.log('hey work dammit');
                 console.log('paypay: ',action.payload);
             })
             .addCase(fetchSuggestion.rejected, (state, action) => {
